@@ -1,3 +1,9 @@
+postman collection
+
+1-> https://www.getpostman.com/collections/0d1240030544e0ba7377
+2-> https://www.getpostman.com/collections/d41b96ccd504cf79a3c9
+
+
 
  1 -> To register a User
   input curl ->  curl --location --request POST 'localhost:5000/auth/register' \
